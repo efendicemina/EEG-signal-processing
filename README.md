@@ -19,4 +19,5 @@ Upon running the program, you will be prompted to select a filter to apply to th
 - High-pass filter
 - Low-pass filter
 - Band-stop filter
+
 After selecting a filter, the program will process the EEG signal accordingly and generate an image comparing the original and filtered signals. Additionally, it will generate plots showing the amplitude spectra for different frequency bands.
